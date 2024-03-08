@@ -1,3 +1,3 @@
 # BlockMesh
 
-[BlockMesh litepaper gitbook](https://github.com/block-mesh/.github.git)
+[BlockMesh litepaper gitbook](https://block-mesh.gitbook.io/block-mesh/)
